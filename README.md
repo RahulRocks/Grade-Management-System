@@ -1,1 +1,1 @@
-# Grade-Management-System
+# Student Enrollment App
